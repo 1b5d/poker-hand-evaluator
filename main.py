@@ -1,3 +1,7 @@
+"""
+main entry point of the solution
+"""
+
 from hand import Hand, Card
 from poker_exceptions import PokerException
 
